@@ -1,4 +1,8 @@
 Name:P Yasasree
+Company:CODETECH IT SOLUTIONS
+ID:CT08DS3833
+Domain:Data Analytics
+Duration:July to August 2024
 
 Project Overview: Predicting Diabetes Progression using Simple Linear Regression
 
@@ -34,3 +38,8 @@ Predict: Make predictions on the test set using the predict method.
 5. Evaluation
 Performance Metrics: Evaluate the model’s performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared score from sklearn.metrics.
 Visualize Predictions: Plot predicted values against actual values to visualize the model’s performance.
+![Screenshot (44)](https://github.com/user-attachments/assets/c6d7b377-ddd7-452b-a750-bfe947a98883)
+![Screenshot (45)](https://github.com/user-attachments/assets/c77da6bc-f9b2-464c-bfa5-ae88a7e88031)
+![Screenshot (46)](https://github.com/user-attachments/assets/c7fc0e7f-5398-4ed3-85b4-b10462b6100d)
+
+
